@@ -1,1 +1,1 @@
-https://Guzenko-Alexandr.github.io/rsschool-cv/cv
+https://guzenko-alexandr.github.io/rsschool-cv/index.html
