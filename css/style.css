@@ -1,0 +1,84 @@
+.header {
+   background-color: #7fff00;
+   display: flex;
+}
+
+.container {
+   max-width: 600px;
+   margin: 0 auto;
+}
+
+.name {
+   padding: 0 0 40px 0;
+}
+
+.header__nav {
+   margin: 0;
+}
+
+.nav__list {
+   padding: 25px;
+   display: flex;
+}
+
+.nav__item {
+   margin-left: 25px;
+   list-style: none;
+}
+
+.nav__link {
+   text-decoration: none;
+   color: #fff;
+   text-transform: uppercase;
+   font-size: 25px;
+   font-weight: 800;
+}
+
+.nav__cv {
+}
+
+h1,
+h2,
+h3 {
+   font-size: inherit;
+   margin: 0;
+}
+ul {
+   margin: 0;
+   padding: 10px 0;
+}
+
+li {
+   list-style: none;
+}
+
+li > a {
+   text-decoration: none;
+   color: blue;
+}
+
+.contacts {
+}
+
+.contact__list {
+   margin: 0;
+   padding: 0;
+}
+
+.about__info {
+   padding: 0 0 20px 0;
+}
+
+.about__code {
+   padding: 0 0 20px 0;
+}
+
+.about__education {
+   padding: 0 0 20px 0;
+}
+
+.footer {
+   background-color: #7fff00;
+   padding: 25px 0;
+   text-align: center;
+}
